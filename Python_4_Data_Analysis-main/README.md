@@ -1,14 +1,13 @@
 # Python for Data Analysis :snake: 
 Certainly! Here's the updated translation with the links associated directly with the database names in single quotes ('').
 
-## Project
+## Project by Steven LE MOAL, Aurelien AURUS, Noame CYTERMANN
 
-Steven LE MOAL, Aurelien AURUS, Noame CYTERMANN
+- Objective:
+Discover a new database, take ownership of it, clean it, explore it, rework it, and enhance it. \
+What links, if any, there might be between incident reporting and reference rents by arrondissement.
 
-Objective:
-Discover a new database, take ownership of it, clean it, explore it, rework it, and enhance it.
-
-Databases:
+- Databases:
 
 ['Dans Ma Rue - Anomalies signalées' database](https://opendata.paris.fr/explore/dataset/dans-ma-rue/export/?disjunctive.type&disjunctive.soustype&disjunctive.code_postal&disjunctive.arrondissement&disjunctive.conseilquartier&disjunctive.prefixe&disjunctive.intervenant)(.csv)
 
